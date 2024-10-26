@@ -19,7 +19,7 @@ this is easy to fix tho, i just need to do it :')
 ```
 
 ---
-##### Educationnal purposes only, use it at your own risk.
+
 ---
 
 ### Dependencies
